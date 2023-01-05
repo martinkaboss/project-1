@@ -1,0 +1,34 @@
+body{
+    background-color:rgb(255, 159, 159);
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+.balra{
+    width: 101px;
+    margin-left: auto;
+}
+
+.jobbra{
+    width: 101px;
+    margin-right: auto;
+}
+
+.kozepre{
+    width: 101px;
+
+  margin-left: 5.5cm;
+
+  margin-right: 5cm;
+
+ 
+}
+
+
+
+
+
